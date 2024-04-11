@@ -28,7 +28,12 @@ This Python project simulates social media interactions through graphs represent
     ```
     cd Social-Network
     ```
-3. Run the program:
+4. Install faker
+   
+    ```
+    pip install -r requirements.txt  
+    ```  
+6. Run the program:
    
     ```
     python social_network.py
