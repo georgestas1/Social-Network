@@ -21,7 +21,7 @@ This Python project simulates social media interactions through graphs represent
 1. Clone the repository:
    
     ```
-    [git clone https://github.com/georgestas1/Social-Network.git
+    git clone https://github.com/georgestas1/Social-Network.git
     ```
 2. Navigate to the directory:
    
